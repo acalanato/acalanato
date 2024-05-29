@@ -1,16 +1,22 @@
-## Hi there 👋
+            ,_     _             ⌌.------------.⌍
+            |\\_,-~/             ║               ║
+            / _  _ |    ,--.     ║    panic!     ║
+           (  @  @ )   / ,-'     ║               ║
+            \  _T_/-._( (        ║               ║
+            /         `. \       ⌎-..‗‗‗‗‗‗‗‗..-⌏
+           |         _  \ |      .---------------.
+            \ \ ,  /      |     / /=============\ \
+             || |-_\__   /     / /===============\ \
+            ((_/`(____,-'     /_________⬒⬒⬒_________\
+                              \_____________________/
 
-<!--
-**acalanato/acalanato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :hammer_and_wrench: Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" title="Emacs" alt="Emacs" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
-Here are some ideas to get you started:
+<img src="https://github.com/acalanato/acalanato/blob/main/rust.svg" title="Rust" alt="Rust" width="40" height="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=acalanato&style=flat-square&color=grey" alt=""/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=acalanato&theme=soft-green)](https://git.io/streak-stats)
