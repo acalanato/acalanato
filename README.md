@@ -1,4 +1,6 @@
+<!--
 <div align="center"><h5><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=3500&color=33FF33&center=true&vCenter=true&width=835&height=40&lines=Hello!+acalanato+here;I'm+new+to+coding;But+i+expect+...;great+things+to+come!;+;" alt="Typing SVG"/></h5></div>
+-->
 
 <div align="center">
 <h5> :hammer_and_wrench: Languages and Tools : </h5>
