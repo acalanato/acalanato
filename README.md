@@ -25,9 +25,9 @@
 
 ![acalanato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acalanato&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
+<!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=acalanato&theme=soft-green)](https://git.io/streak-stats)
 
-<!---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acalanato&theme=github_dark" alt="acalanato's GitHub Stats"/>
 --->
 </div>
@@ -46,4 +46,4 @@
                                 ((_/`(____,-'     /_________⬒⬒⬒_________\
                                                   \_____________________/
 
-<div align="center"> <h5> :building_construction: Under construction </h5> </div>
+
