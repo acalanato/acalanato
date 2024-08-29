@@ -16,7 +16,7 @@
 <div align="center"> <a href="https://www.codewars.com/users/Acalanato"><img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="40" height="40"/></a><a href="https://www.linkedin.com/in/vagner-nogueira/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/> </a> </div>
 
 <br>
-
+<div align="center"><img src="https://www.codewars.com/users/Acalanato/badges/small"/><div/>
 
 <!---
 <img src="https://komarev.com/ghpvc/?username=acalanato&style=flat-square&color=grey" alt=""/>
