@@ -12,6 +12,8 @@
 <img src="https://www.rust-lang.org/logos/cargo.png" title="Cargo" alt="Cargo" width="40" height="40"/>&nbsp;
 </div>
 <br>
+<div align="center"><img src="https://github.com/acalanato/acalanato/blob/main/octacat.gif"<img/><div/>
+
 <div align="center"> <h5> :hurtrealbad: Other places to find me : </h5> </div>
 <div align="center"> <a href="https://www.codewars.com/users/Acalanato"><img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="40" height="40"/></a><a href="https://www.linkedin.com/in/vagner-nogueira/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/> </a> </div>
 
